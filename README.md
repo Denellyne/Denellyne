@@ -1,8 +1,6 @@
 <a href="https://github.com/Denellyne/github-readme-stats">
   <img height=128 align="center" src="https://github-readme-stats.vercel.app/api?username=Denellyne&show_icons=true&theme=aura&include_all_commits=true"/>
-<a>
- &nbsp
-</a>
+  ‎ ‎
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Denellyne&theme=aura">
   <img height = 128 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Denellyne&theme=aura&(https://git.io/streak-stats" />
