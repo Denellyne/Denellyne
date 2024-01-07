@@ -13,7 +13,7 @@
 src="https://github-readme-stats.vercel.app/api/wakatime?username=Denellyne&theme=aura&custom_title=Time&#160Spent&#160Coding"(https://wakatime.com/@Denellyne)>
 </a>
 
-<hr>
+###
 
 <a href="https://github.com/Denellyne/PCXSense">
   <img width = 410 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Denellyne&repo=PCXSense&theme=aura&(https://github.com/Denellyne/PCXSense" />
