@@ -6,7 +6,7 @@
 </a>
 <a>
 <a href = "https://wakatime.com/@Denellyne">
-<img width = 740 align="center"
+<img width = 738 align="center"
 src="https://github-readme-stats.vercel.app/api/wakatime?username=Denellyne&theme=aura&custom_title=Time&#160Spent&#160Coding"(https://wakatime.com/@Denellyne)>
 </a>
 
