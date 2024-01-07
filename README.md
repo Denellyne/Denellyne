@@ -1,42 +1,42 @@
 <a href="https://github.com/Denellyne/">
-  <img height=148 align="center" src="https://github-readme-stats.vercel.app/api?username=Denellyne&show_icons=true&theme=aura&include_all_commits=true"/>
+  <img height=158 align="center" src="https://github-readme-stats.vercel.app/api?username=Denellyne&show_icons=true&theme=aura&include_all_commits=true"/>
 </a>
 <a href="https://github.com/Denellyne/">
-  <img height = 148 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Denellyne&theme=aura&(https://git.io/streak-stats" />
+  <img height = 158 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Denellyne&theme=aura&(https://git.io/streak-stats" />
 </a>
 <a>
 <a href = "https://wakatime.com/@Denellyne">
-<img width = 735 align="center"
+<img width = 785 align="center"
 src="https://github-readme-stats.vercel.app/api/wakatime?username=Denellyne&theme=aura&custom_title=Time&#160Spent&#160Coding"(https://wakatime.com/@Denellyne)>
 </a>
 
 <hr>
 
 <a href="https://github.com/Denellyne/PCXSense">
-  <img width = 360 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Denellyne&repo=PCXSense&theme=aura&(https://github.com/Denellyne/PCXSense" />
+  <img width = 394 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Denellyne&repo=PCXSense&theme=aura&(https://github.com/Denellyne/PCXSense" />
 </a>
 
 <a href="https://github.com/Denellyne/Argus-File-Explorer">
-  <img width = 360 align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Denellyne&repo=Argus&theme=aura&(https://github.com/Denellyne/Argus-File-Explorer" />
+  <img width = 394 align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Denellyne&repo=Argus&theme=aura&(https://github.com/Denellyne/Argus-File-Explorer" />
 
 #####
 </a>
 <a href="https://github.com/Denellyne/Resource-Bomber">
-  <img width = 360 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Denellyne&repo=Resource-Bomber&theme=aura&(https://github.com/Denellyne/Resource-Bomber" />
+  <img width = 394 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Denellyne&repo=Resource-Bomber&theme=aura&(https://github.com/Denellyne/Resource-Bomber" />
 </a>
 
 <a href="https://github.com/Denellyne/ShinyTracker">
-  <img width = 360 align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Denellyne&repo=ShinyTracker&theme=aura&(https://github.com/Denellyne/ShinyTracker" />
+  <img width = 394 align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Denellyne&repo=ShinyTracker&theme=aura&(https://github.com/Denellyne/ShinyTracker" />
 
 #####
 </a>
 
 <a href="https://github.com/Denellyne/YoutubeDownloader">
-  <img width = 360 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Denellyne&repo=YoutubeDownloader&theme=aura&(https://github.com/Denellyne/YoutubeDownloader" />
+  <img width = 394 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Denellyne&repo=YoutubeDownloader&theme=aura&(https://github.com/Denellyne/YoutubeDownloader" />
 </a>
 
 <a href="https://github.com/Denellyne/FileOrganizer">
-  <img width = 360 align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Denellyne&repo=FileOrganizer&theme=aura&(https://github.com/Denellyne/FileOrganizer" />
+  <img width = 394 align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Denellyne&repo=FileOrganizer&theme=aura&(https://github.com/Denellyne/FileOrganizer" />
 
 #####
 </a>
