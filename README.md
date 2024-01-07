@@ -1,8 +1,8 @@
 <a href="https://github.com/Denellyne/">
-  <img height=173 align="center" src="https://github-readme-stats.vercel.app/api?username=Denellyne&show_icons=true&theme=aura&include_all_commits=true"/>
+  <img height=168 align="center" src="https://github-readme-stats.vercel.app/api?username=Denellyne&show_icons=true&theme=aura&include_all_commits=true"/>
 </a>
 <a href="https://github.com/Denellyne/">
-  <img height = 173 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Denellyne&theme=aura&(https://git.io/streak-stats" />
+  <img height = 168 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Denellyne&theme=aura&(https://git.io/streak-stats" />
 </a>
 <a>
 <a href = "https://wakatime.com/@Denellyne">
