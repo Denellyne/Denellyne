@@ -18,4 +18,3 @@ src="https://github-readme-stats.vercel.app/api/wakatime?username=Denellyne&them
     <br><br><br><br><br>
   <img width = 300 align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=Denellyne&repo=Argus&theme=aura&(https://github.com/Denellyne/Argus-File-Explorer" />
 </a>
-
