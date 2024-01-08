@@ -1,5 +1,5 @@
 <a href="https://github.com/Denellyne/">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Denellyne&show_icons=true&theme=aura&include_all_commits=true"/>
+  <img height=170 align="center" src="https://github-readme-stats-eight-chi-79.vercel.app/api?username=Denellyne&show_icons=true&theme=aura&include_all_commits=true"/>
 </a>
 <a href="https://github.com/Denellyne/">
   <img height = 170 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Denellyne&theme=aura&(https://git.io/streak-stats" />
