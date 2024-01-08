@@ -2,7 +2,7 @@
   <img height=170 align="center" src="https://github-readme-stats-eight-chi-79.vercel.app/api?username=Denellyne&show_icons=true&theme=aura&include_all_commits=true"/>
 </a>
 <a href="https://github.com/Denellyne/">
-  <img height = 170 align="center" src="https://github-readme-stats-denellynes-projects.vercel.app/?user=Denellyne&theme=aura&(https://git.io/streak-stats" />
+  <img height = 170 align="center" src="https://github-readme-stats-git-master-denellynes-projects.vercel.app/?user=Denellyne&theme=aura&(https://git.io/streak-stats" />
   
   #####
   
