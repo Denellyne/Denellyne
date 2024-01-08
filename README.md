@@ -16,7 +16,7 @@ src="https://github-readme-stats-eight-chi-79.vercel.app/api/wakatime?username=D
 ###
 
 <a href="https://github.com/Denellyne/PCXSense">
-  <img width = 410 align="left" src="github-readme-stats-eight-chi-79.vercel.app/api/pin/?username=Denellyne&repo=PCXSense&theme=aura(https://github.com/Denellyne/PCXSense" />
+  <img width = 410 align="left" src="https://github-readme-stats-denellynes-projects.vercel.app/api/pin/?username=Denellyne&repo=PCXSense&theme=aura(https://github.com/Denellyne/PCXSense" />
 </a>
 
 <a href="https://github.com/Denellyne/Argus-File-Explorer">
