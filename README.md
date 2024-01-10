@@ -1,9 +1,16 @@
 <a href="https://github.com/Denellyne/">
   <img height=170 align="center" src="https://github-readme-stats-eight-chi-79.vercel.app/api?username=Denellyne&show_icons=true&theme=aura&include_all_commits=true"/>
-  
-  #####
-  
 </a>
+
+<a href="https://github.com/Denellyne/">
+  <img height = 170 align="center" src="https://github-readme-streak-stats-delta-seven.vercel.app//?user=Denellyne&theme=aura&(https://git.io/streak-stats" />
+
+  #####
+
+</a>
+
+
+
 
 <a href = "https://wakatime.com/@Denellyne">
 <img width = 844 align="center"
