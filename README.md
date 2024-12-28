@@ -14,7 +14,7 @@
 
 <a href = "https://wakatime.com/@Denellyne">
 <img width = 844 align="center"
-src="https://github-readme-stats-eight-chi-79.vercel.app/api/wakatime?username=Denellyne&theme=aura&custom_title=Time&#160Spent&#160Coding"(https://wakatime.com/@Denellyne)>
+src="https://github-readme-stats-eight-chi-79.vercel.app/api/wakatime?username=Denellyne&theme=aura&custom_title=Time&#160Spent&#160Coding\&layout=compact"(https://wakatime.com/@Denellyne)>
 </a>
 
 ###
