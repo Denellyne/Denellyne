@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Denellyne)
 <a href="https://github.com/Denellyne/">
   <img height=170 align="center" src="https://github-readme-stats-eight-chi-79.vercel.app/api?username=Denellyne&show_icons=true&theme=aura&include_all_commits=true"/>
 </a>
