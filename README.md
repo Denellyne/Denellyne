@@ -34,8 +34,8 @@ src="https://github-readme-stats-eight-chi-79.vercel.app/api/wakatime?username=D
   <img width = 410 align="left" src="https://github-readme-stats-denellynes-projects.vercel.app/api/pin/?username=Denellyne&repo=Resource-Bomber&theme=aura&(https://github.com/Denellyne/Resource-Bomber" />
 </a>
 
-<a href="https://github.com/Denellyne/ShinyTracker">
-  <img width = 410 align="center"  src="https://github-readme-stats-denellynes-projects.vercel.app/api/pin/?username=Denellyne&repo=ShinyTracker&theme=aura&(https://github.com/Denellyne/ShinyTracker" />
+<a href="https://github.com/Denellyne/Folar">
+  <img width = 410 align="center"  src="https://github-readme-stats-denellynes-projects.vercel.app/api/pin/?username=Denellyne&repo=Folar&theme=aura&(https://github.com/Denellyne/Folar" />
 
 #####
 </a>
